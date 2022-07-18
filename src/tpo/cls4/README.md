@@ -1,4 +1,5 @@
 <h2>WebApp - zad1</h2>
+Excercise to work needs tomcat setup.
 <br>
 <span style="font-weight: bold;"><span style="text-decoration: underline;"><span style="text-decoration: underline;"></span></span></span><b><span style="font-family: &#39;&#39;;"><br><br>Napisz aplikację WEB o następującej funkcjonalności.<br><br>*&nbsp;&nbsp;&nbsp;
 Serwer wczytuje z pliku dane dotyczące samochodów. Każdy samochód ma
