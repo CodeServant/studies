@@ -22,4 +22,9 @@ This UML diagram (<a href="https://viewer.diagrams.net/?tags=%7B%7D&highlight=00
 
 <h2>TPO - Distributed Programming Techniques</h2><br>
 <p><a href="https://github.com/CodeServant/studies/tree/main/src/tpo">This</a> is folder containing homeworks from TPO classes, which are more advanced than UTP.</p>
+<br>
+<h2>dicserver</h2>
+<p>This is project of a dictionary server that returns translation of a word <br>
+client sends request in {"polish word","lang code", port}. Server gets the request and resend it to a proper language server such as English Server with following syntax {"polish word", client address, client port}. Project consists very primitive GUI for the client.</p>
+
 </body>
