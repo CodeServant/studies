@@ -27,4 +27,7 @@ This UML diagram (<a href="https://viewer.diagrams.net/?tags=%7B%7D&highlight=00
 <p>This is project of a dictionary server that returns translation of a word <br>
 client sends request in {"polish word","lang code", port}. Server gets the request and resend it to a proper language server such as English Server with following syntax {"polish word", client address, client port}. Project consists very primitive GUI for the client.</p>
 
+<h2>subscribers</h2>
+<p>There are 2 types of clients: subscribers and admin client. The subscriber can subscribe a topic and unsubscribe it. Admin client can manage the topics and write informations about topics. Then the subscribers are beeing alerted when some new info have been published on the server.</p>
+<p>This project uses Selectors to serve multiple Clients. I've made some automated tests in JUNIT as a result of developments proccess. The Main class of the server is subscribers.Zad1.Server.java and the clients GUIs are in package subscribers.Zad1.gui</p>
 </body>
