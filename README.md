@@ -19,4 +19,7 @@ This UML diagram (<a href="https://viewer.diagrams.net/?tags=%7B%7D&highlight=00
 <br>
 <h2>UTP - Universal Programming Techniques</h2>
 <p><a href="https://github.com/CodeServant/studies/tree/main/src/utp">This</a> is folder containing homeworks from UTP classes.</p>
+
+<h2>TPO - Distributed Programming Techniques</h2><br>
+<p><a href="https://github.com/CodeServant/studies/tree/main/src/tpo">This</a> is folder containing homeworks from TPO classes, which are more advanced than UTP.</p>
 </body>
